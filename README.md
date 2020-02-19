@@ -7,7 +7,7 @@
 
 
 
-## we install docker-compose, give permission and chech is working
+## we install docker-compose, give permission and check is working
 
 sudo curl -L "https://github.com/docker/compose/releases/download/1.25.3/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 
@@ -22,4 +22,4 @@ docker-compose --version
 in localhost:5000 we s#hould be able to see the website server
 
 
-##CONTROl+C to stop docker-compose
+##CONTROL+C to stop docker-compose
